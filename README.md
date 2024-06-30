@@ -1,1 +1,3 @@
-# Cloth_Rental_Project
+Cloth_Rental_Project
+<br>
+Author - Kareena Mulla
